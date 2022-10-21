@@ -4,3 +4,15 @@ public class Main {
         System.out.println("специалист по тестированию ПО");
     }
 }
+
+
+
+
+public class Main {
+    public static void main(String[] args) {
+        // type name = value;
+        int intVar = 123;
+        System.out.println(intVar);
+        
+    }
+}
