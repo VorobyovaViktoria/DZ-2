@@ -1,4 +1,6 @@
-1
-1223
-
-789.
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Воробьева Виктория Вячеславовна");
+        System.out.println("специалист по тестированию ПО");
+    }
+}
