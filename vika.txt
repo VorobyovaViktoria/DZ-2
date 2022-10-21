@@ -16,3 +16,18 @@ public class Main {
         
     }
 }
+
+
+public class Main {
+    public static void main(String[] args) {
+        // byte 127;                  //8 bit or 1 byte
+        // short 32767;               //16 bit or 2 byte
+        // int 2147483647;            //32 bit or 4 byte
+        // long 9223372036854775807l;  //64 bit or 8 byte
+
+
+        String var = "V";
+        System.out.println(var);
+
+    }
+}
